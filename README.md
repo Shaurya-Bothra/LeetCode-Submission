@@ -6,4 +6,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0607-sales-person](https://github.com/Shaurya-Bothra/LeetCode-Submission/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Shaurya-Bothra/LeetCode-Submission/tree/master/0608-tree-node) |
+| [1158-market-analysis-i](https://github.com/Shaurya-Bothra/LeetCode-Submission/tree/master/1158-market-analysis-i) |
 <!---LeetCode Topics End-->
