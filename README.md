@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0607-sales-person](https://github.com/Shaurya-Bothra/LeetCode-Submission/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Shaurya-Bothra/LeetCode-Submission/tree/master/0608-tree-node) |
+| [0627-swap-sex-of-employees](https://github.com/Shaurya-Bothra/LeetCode-Submission/tree/master/0627-swap-sex-of-employees) |
 | [1158-market-analysis-i](https://github.com/Shaurya-Bothra/LeetCode-Submission/tree/master/1158-market-analysis-i) |
 | [1393-capital-gainloss](https://github.com/Shaurya-Bothra/LeetCode-Submission/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
