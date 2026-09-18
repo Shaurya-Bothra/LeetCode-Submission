@@ -2,7 +2,7 @@ WITH daily AS (
     SELECT
         user_id,
         action_date,
-        MAX(action) AS action
+        action
     FROM activity
     GROUP BY user_id, action_date
     HAVING COUNT(*) = 1
